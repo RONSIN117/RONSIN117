@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://github.com/RONSIN117"><img src="https://komarev.com/ghpvc/?username=RONSIN117&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views" /></a>
   <a href="https://github.com/RONSIN117?tab=followers"><img src="https://img.shields.io/github/followers/RONSIN117?label=Followers&style=flat-square&color=8a2be2" alt="Followers" /></a>
-  <a href="https://github.com/RONSIN117?tab=repositories"><img src="https://github.com/RONSIN117?tab=stars&style=flat-square&color=8a2be2" alt="Stars" /></a>
+  <a href="https://github.com/RONSIN117?tab=repositories"><img src="https://img.shields.io/github/stars/RONSIN117?label=Stars&style=flat-square&color=8a2be2" alt="Stars" /></a>
 </div>
 
 ---
@@ -34,7 +34,7 @@
   <h2>✦ About ✦</h2>
 </div>
 
-I am a Computer Science and Engineering undergraduate specializing in Cybersecurity, bringing a rigorous product engineering mindset to secure infrastructure and performance-driven applications. My expertise bridges the gap between low-level system hardening and advanced AI/ML implementations, with a strong foundation in C, C++, and Python development. Whether developing autonomous hardware integration blueprints or conducting complex penetration testing and metadata reconnaissance, I approach engineering with a focus on scalable, highly secure architecture.
+I am a second-year Computer Science and Engineering undergraduate specializing in Cybersecurity at Saveetha Engineering College, driven by a passion for building secure, resilient digital ecosystems. My technical foundation spans low-level system hardening, automated OSINT reconnaissance, and high-performance programming in C, C++, and Python. Certified across multiple core security and software disciplines—including credentials from Google, NIIT, and Infosys Springboard—I actively merge theoretical defensive paradigms with practical application engineering. Whether architecting autonomous sensor pipelines or investigating system vulnerabilities, I am dedicated to engineering secure-by-design solutions for complex technological challenges.
 
 **Open To:** Software Engineering Internships • AI/ML Research • Cybersecurity Analyst Roles
 
