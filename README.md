@@ -1,42 +1,41 @@
 <div align="center">
-  <h1>Hi there, I'm Ronit Sinha 👋</h1>
-  <h3>🛡️ Cybersecurity Enthusiast | CSE Undergraduate</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&height=80&lines=Hi,+I'm+Ronit+Sinha+👋;Certified+Cybersecurity+Specialist;CSE+Undergraduate;Penetration+Tester" alt="Typing SVG" />
 </div>
 
-I am a first-year Computer Science and Engineering student specializing in Cybersecurity at Saveetha Engineering College. As a Certified Cybersecurity Specialist, my primary focus is on system hardening, penetration testing, and network traffic analysis. 
+<div align="center">
+  <p>I am a Computer Science and Engineering student at Saveetha Engineering College focusing on system hardening, penetration testing, and network traffic analysis.</p>
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛡️ Core Expertise
 
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Cybersecurity & Infrastructure**  
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Penetration Testing** | Advanced | Kali Linux, Network Reconnaissance, Vulnerability Assessment |
+| **System Hardening** | Intermediate | Secure configurations, Access controls, Traffic Analysis (Wireshark) |
+| **Software Development** | Intermediate | Python, C++, C, Java |
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Caterpillar Tech Challenge: Scraper Gate** | Designed a stationary recovery system using LiDAR/ToF sensors to autonomously remove residue from mining trucks. | C++, Sensor Integration |
+| **Caterpillar Tech Challenge** | Designed a stationary recovery system using LiDAR/ToF sensors to autonomously remove residue from mining trucks. | C++, Sensor Integration |
 | **Social Media Reconnaissance** | Conducted metadata leakage and data handling analysis to assess security vulnerabilities and footprinting. | Kali Linux, Instaloader |
 
 ---
 
-### 📊 GitHub Analytics
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <h3>📊 GitHub Analytics</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
