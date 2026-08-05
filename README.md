@@ -25,7 +25,7 @@
 <div align="center">
   <a href="https://github.com/RONSIN117"><img src="https://komarev.com/ghpvc/?username=RONSIN117&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views" /></a>
   <a href="https://github.com/RONSIN117?tab=followers"><img src="https://img.shields.io/github/followers/RONSIN117?label=Followers&style=flat-square&color=8a2be2" alt="Followers" /></a>
-  <a href="https://github.com/RONSIN117?tab=repositories"><img src="https://img.shields.io/github/stars/RONSIN117?label=Stars&style=flat-square&color=8a2be2" alt="Stars" /></a>
+  <a href="https://github.com/RONSIN117?tab=repositories"><img src="https://github.com/RONSIN117?tab=stars&style=flat-square&color=8a2be2" alt="Stars" /></a>
 </div>
 
 ---
@@ -146,6 +146,8 @@ I am a Computer Science and Engineering undergraduate specializing in Cybersecur
 | Recognition | Details |
 | :--- | :--- |
 | **Certified Cybersecurity Specialist** | Completed the Advanced Cybersecurity with GenAI Program, demonstrating mastery in modern threat vectors. |
+| **Google Cybersecurity Milestones** | Successfully certified in both *Foundations of Cybersecurity* and *Play It Safe: Manage Security Risks* authorized by Google. |
+| **Software Engineering Credential** | Completed comprehensive software engineering training and certification via Infosys Springboard. |
 | **Competitive Programming** | Consistent active implementation of complex data structures (Linked Lists) and IPC mechanisms in C/C++. |
 
 ---
