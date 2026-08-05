@@ -3,29 +3,29 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=800&height=60&lines=First-Year+CSE+Undergraduate;Certified+Cybersecurity+Specialist;AI%2FML+%26+System+Hardening;Full+Stack+Development+%26+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9370DB&center=true&vCenter=true&width=800&height=60&lines=Second-Year+CSE+Undergraduate;Certified+Cybersecurity+Specialist;AI%2FML+%26+System+Hardening;Full+Stack+Development+%26+Automation" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Saveetha_Engineering_College-0D1117?style=for-the-badge&logo=academia&logoColor=9370DB" alt="Academic" />
-  <img src="https://img.shields.io/badge/Chennai,_India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=9370DB" alt="Location" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="mailto:contact@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=9370DB" alt="Email" /></a>
-  <a href="https://linkedin.com/in/RONSIN117"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=9370DB" alt="LinkedIn" /></a>
-  <a href="https://github.com/RONSIN117"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=9370DB" alt="GitHub" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=9370DB" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Saveetha%20Engineering%20College-0D1117?style=flat-square&logo=bookstack&logoColor=9370DB" alt="Academic" />
+  <img src="https://img.shields.io/badge/Chennai,%20India-0D1117?style=flat-square&logo=googlemaps&logoColor=9370DB" alt="Location" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RONSIN117&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/RONSIN117?label=Followers&style=flat-square&color=8a2be2" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/RONSIN117?label=Stars&style=flat-square&color=8a2be2" alt="Stars" />
+  <a href="mailto:ronitsinha188@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=9370DB" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ronit-sinha-0a923136a/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=9370DB&cache=none" alt="LinkedIn" /></a>
+  <a href="https://github.com/RONSIN117"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=9370DB" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=vercel&logoColor=9370DB" alt="Portfolio" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/RONSIN117"><img src="https://komarev.com/ghpvc/?username=RONSIN117&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Profile Views" /></a>
+  <a href="https://github.com/RONSIN117?tab=followers"><img src="https://img.shields.io/github/followers/RONSIN117?label=Followers&style=flat-square&color=8a2be2" alt="Followers" /></a>
+  <a href="https://github.com/RONSIN117?tab=repositories"><img src="https://img.shields.io/github/stars/RONSIN117?label=Stars&style=flat-square&color=8a2be2" alt="Stars" /></a>
 </div>
 
 ---
@@ -155,19 +155,7 @@ I am a Computer Science and Engineering undergraduate specializing in Cybersecur
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/NIIT-Cybersecurity_with_GenAI_Advanced_Program-8a2be2?style=for-the-badge&logo=security&logoColor=white" alt="NIIT CyberSec" />
-</div>
-
----
-
-<div align="center">
-  <h2>✦ Coding Profiles ✦</h2>
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=9370DB" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=9370DB" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=9370DB" alt="GeeksforGeeks" /></a>
+  <img src="https://img.shields.io/badge/NIIT-Cybersecurity_with_GenAI_Advanced_Program-8a2be2?style=flat-square&logo=security&logoColor=white" alt="NIIT CyberSec" />
 </div>
 
 ---
@@ -177,8 +165,8 @@ I am a Computer Science and Engineering undergraduate specializing in Cybersecur
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RONSIN117&show_icons=true&theme=dracula&title_color=9370DB&text_color=E6E6FA&icon_color=8A2BE2&bg_color=0D1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RONSIN117&layout=compact&theme=dracula&title_color=9370DB&text_color=E6E6FA&bg_color=0D1117&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Primary_Language-C++_%2F_Python-0D1117?style=flat-square&logo=cplusplus&logoColor=9370DB" alt="Primary Language" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity_%26_Systems-0D1117?style=flat-square&logo=kalilinux&logoColor=9370DB" alt="Focus" />
 </div>
 <br>
 <div align="center">
@@ -192,7 +180,8 @@ I am a Computer Science and Engineering undergraduate specializing in Cybersecur
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RONSIN117&theme=radical&no-frame=true&no-bg=true&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://img.shields.io/badge/🏆_Milestone-Active_Contributor-0D1117?style=flat-square&logo=github&logoColor=9370DB" alt="Milestone" />
+  <img src="https://img.shields.io/badge/⭐_Status-Open_Source_Builder-0D1117?style=flat-square&logo=git&logoColor=9370DB" alt="Status" />
 </div>
 
 ---
