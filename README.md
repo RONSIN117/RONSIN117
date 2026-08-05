@@ -155,6 +155,10 @@ I am a Computer Science and Engineering undergraduate specializing in Cybersecur
 </div>
 
 <div align="center">
+  <a href="https://coursera.org/verify/APC0OWOJN8LC" target="_blank"><img src="https://img.shields.io/badge/Google-Play%20It%20Safe%3A%20Manage%20Security%20Risks-8a2be2?style=flat-square&logo=google&logoColor=white" alt="Play It Safe" /></a>
+  <a href="https://coursera.org/verify/DJ4FZZZFE8QN" target="_blank"><img src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-8a2be2?style=flat-square&logo=google&logoColor=white" alt="Foundations of Cybersecurity" /></a>
+  <a href="https://verify.onwingspan.com" target="_blank"><img src="https://img.shields.io/badge/Infosys%20Springboard-Software%20Engineering-8a2be2?style=flat-square&logo=infosys&logoColor=white" alt="Infosys Software Engineering" /></a>
+  <br><br>
   <img src="https://img.shields.io/badge/NIIT-Cybersecurity_with_GenAI_Advanced_Program-8a2be2?style=flat-square&logo=security&logoColor=white" alt="NIIT CyberSec" />
 </div>
 
@@ -213,11 +217,9 @@ I am a Computer Science and Engineering undergraduate specializing in Cybersecur
 ```yaml
 profile:
   learning:
-    - "Advanced Inter-Process Communication (IPC)"
-    - "Generative AI Integration in Threat Intelligence"
+    - "Google Cybersecurity"
   building:
-    - "Automated OSINT frameworks"
-    - "High-efficiency C++ sensor logic for hardware"
+    - "Pocket Auditor project"
   exploring:
     - "FastF1 data pipeline optimizations"
     - "Low-level Linux kernel vulnerabilities"
